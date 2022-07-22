@@ -1,4 +1,4 @@
-# projeto-redes-2021.1
+# Projeto-redes-2021.1
 Projeto final da disciplina redes de computadores - Rebeca de Jesus Brandão e Mateus Giordanni
 
 # Instruções

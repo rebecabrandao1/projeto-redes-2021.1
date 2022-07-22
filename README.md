@@ -1,8 +1,8 @@
 # projeto-redes-2021.1
 Projeto final da disciplina redes de computadores - Rebeca de Jesus Brandão e Mateus Giordanni
 
-# Instruções:
-###### Execução:
+# Instruções
+###### Execução
 > $cd src
 > $python server.py
  **É necessário executar o servidor antes dos clientes!**
